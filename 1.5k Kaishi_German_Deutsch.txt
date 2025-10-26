@@ -31,7 +31,6 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 
-</div>"
 "<div lang=""ja"">
 私
 <div style='font-size: 20px;'><b>私</b>はアンです。</div>
@@ -48,9 +47,9 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 
-<div style='font-size: 25px; padding-bottom:20px'>I (polite, general)</div>
+<div style='font-size: 25px; padding-bottom:20px'>Ich (höflich, allgemein)</div>
 <div style='font-size: 25px;'><b><ruby><rb>私</rb><rt>わたし</rt></ruby></b>はアンです。</div>
-<div style='font-size: 25px; padding-bottom:10px'>I am Ann.</div>
+<div style='font-size: 25px; padding-bottom:10px'>Ich bin Ann.</div>
 
 [sound:私_ワタシ━_0_NHK-2016.mp3]
 [sound:JLPT_Tango_N5_0001.mp3]
@@ -59,8 +58,7 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 	<br>
-	<div style=""font-size: 20px; padding-top:12px"">Note: Can also be read わたくし (formal) and あたし (feminine).<br>There are rarer readings too.</div>
-
+	<div style=""font-size: 20px; padding-top:12px"">Hinweis: Kann auch als わたくし (formell) und あたし (weiblich) gelesen werden.<br>Es gibt auch seltenere Lesungen.</div>
 
 
 
