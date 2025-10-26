@@ -31,6 +31,7 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 
+</div>"
 "<div lang=""ja"">
 私
 <div style='font-size: 20px;'><b>私</b>はアンです。</div>
@@ -59,6 +60,7 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 	<br>
 	<div style=""font-size: 20px; padding-top:12px"">Hinweis: Kann auch als わたくし (formell) und あたし (weiblich) gelesen werden.<br>Es gibt auch seltenere Lesungen.</div>
+
 
 
 
