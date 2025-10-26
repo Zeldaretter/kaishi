@@ -118,10 +118,9 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
  
 
 
-
-<div style='font-size: 25px; padding-bottom:20px'>san</div>
+<div style='font-size: 25px; padding-bottom:20px'>-san (höfliche Anrede nach einem Namen)</div>
 <div style='font-size: 25px;'>あなたはトム<b>さん</b>ですか。</div>
-<div style='font-size: 25px; padding-bottom:10px'>Are you Tom-san?</div>
+<div style='font-size: 25px; padding-bottom:10px'>Bist du Tom-san?</div>
 
 [sound:さん_サ＼ン_1_NHK-2016.mp3]
 [sound:JLPT_Tango_N5_0005.mp3]
@@ -130,15 +129,15 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 	<br>
-	<div style=""font-size: 20px; padding-top:12px"">Note: Most commonplace neutral polite honorific. Somewhat similar to using ""M."" in front of a name in English.</div>
+	<div style=""font-size: 20px; padding-top:12px"">Hinweis: Häufigste neutrale höfliche Anrede. In etwa vergleichbar mit „Herr“ oder „Frau“ im Deutschen.</div>
 
 
 
 
 
 <div style=""font-size: 20px; width: fit-content; max-width:40vw; margin: auto"">
-	<details><summary>Pitch Accent Notes</summary>
-		<br>If the name has an accent, さん and all other honorifics are pronounced low: 高橋さん → たか＼はしさん while if a name is heiban, all honorifics are also flat: 平田さん would be ひらたさん￣.
+	<details><summary>Hinweise zur Betonung (Pitch Accent)</summary>
+		<br>Wenn der Name einen Akzent hat, werden さん und andere Höflichkeitsformen tief ausgesprochen: 高橋さん → たか＼はしさん. Wenn der Name heiban ist, bleiben alle Ehrenformen flach: 平田さん → ひらたさん￣.
 	</details>
 </div>
 
@@ -146,6 +145,7 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 </div>"
+
 "<div lang=""ja"">
 彼
 <div style='font-size: 20px;'><b>彼</b>はトムさんです。</div>
@@ -161,10 +161,9 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
  
 
 
-
-<div style='font-size: 25px; padding-bottom:20px'>he, him</div>
+<div style='font-size: 25px; padding-bottom:20px'>er, ihn</div>
 <div style='font-size: 25px;'><b><ruby><rb>彼</rb><rt>かれ</rt></ruby></b>はトムさんです。</div>
-<div style='font-size: 25px; padding-bottom:10px'>He is Tom-san.</div>
+<div style='font-size: 25px; padding-bottom:10px'>Er ist Tom-san.</div>
 
 [sound:彼_カ＼レ_1_NHK-2016.mp3]
 [sound:JLPT_Tango_N5_0006.mp3]
@@ -180,6 +179,7 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 </div>"
+
 "<div lang=""ja"">
 好き
 <div style='font-size: 20px;'>私はワインが<b>好き</b>です。</div>
@@ -195,10 +195,9 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
  
 
 
-
-<div style='font-size: 25px; padding-bottom:20px'>like, fond of</div>
+<div style='font-size: 25px; padding-bottom:20px'>mögen, gern haben</div>
 <div style='font-size: 25px;'><ruby><rb>私</rb><rt>わたし</rt></ruby>はワインが<b><ruby><rb>好</rb><rt>す</rt></ruby>き</b>です。</div>
-<div style='font-size: 25px; padding-bottom:10px'>I like wine.</div>
+<div style='font-size: 25px; padding-bottom:10px'>Ich mag Wein.</div>
 
 [sound:d7fc47445da76bf992a10e581da01ba9-0fba83bd67a3dc41ed108b722008eb47b879a343.mp3]
 [sound:fe1250584407c2a9b5499098ec358022-292b7d8c38187415a03e45ff4f21ec25989bc12b.mp3]
