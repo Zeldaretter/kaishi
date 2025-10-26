@@ -110,42 +110,22 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 [sound:JLPT_Tango_N5_0005.mp3]
 </div>"	"<div lang=""ja"">
 さん
-
-
-
-
 	<br><div style='font-size: 24px'><span style=""display:inline-block;position:relative;padding-right:0.1em;margin-right:0.1em;""><span style=""display:inline;"">サ</span><span style=""border-color:currentColor;display:block;user-select:none;pointer-events:none;position:absolute;top:0.1em;left:0;right:0;height:0;border-top-width:0.1em;border-top-style:solid;right:-0.1em;height:0.4em;border-right-width:0.1em;border-right-style:solid;""></span></span>ン*</div>
- 
-
-
 <div style='font-size: 25px; padding-bottom:20px'>-san (höfliche Anrede nach einem Namen)</div>
 <div style='font-size: 25px;'>あなたはトム<b>さん</b>ですか。</div>
 <div style='font-size: 25px; padding-bottom:10px'>Bist du Tom-san?</div>
-
 [sound:さん_サ＼ン_1_NHK-2016.mp3]
 [sound:JLPT_Tango_N5_0005.mp3]
 <br>
 <img alt=""立っている男性のイラスト（ポーズ） | かわいいフリー素材集 いらすとや"" src=""stand1_front05_man.webp"">
-
-
 	<br>
 	<div style=""font-size: 20px; padding-top:12px"">Hinweis: Häufigste neutrale höfliche Anrede. In etwa vergleichbar mit „Herr“ oder „Frau“ im Deutschen.</div>
-
-
-
-
-
 <div style=""font-size: 20px; width: fit-content; max-width:40vw; margin: auto"">
 	<details><summary>Hinweise zur Betonung (Pitch Accent)</summary>
 		<br>Wenn der Name einen Akzent hat, werden さん und andere Höflichkeitsformen tief ausgesprochen: 高橋さん → たか＼はしさん. Wenn der Name heiban ist, bleiben alle Ehrenformen flach: 平田さん → ひらたさん￣.
 	</details>
 </div>
-
-
-
-
 </div>"
-
 "<div lang=""ja"">
 彼
 <div style='font-size: 20px;'><b>彼</b>はトムさんです。</div>
