@@ -85,9 +85,9 @@ Welcome to Kaishi 1.5k! (version 2.2.27)<br>
 
 
 
-<div style='font-size: 25px; padding-bottom:20px'>you (usually when one doesn't know the person)</div>
+<div style='font-size: 25px; padding-bottom:20px'>du (meist, wenn man die Person nicht kennt)</div>
 <div style='font-size: 25px;'><b>あなた</b>はトムさんですか。</div>
-<div style='font-size: 25px; padding-bottom:10px'>Are you Tom-san?</div>
+<div style='font-size: 25px; padding-bottom:10px'>Bist du Tom-san?</div>
 
 [sound:あなた_アナ＼タ_2_NHK-2016.mp3]
 [sound:JLPT_Tango_N5_0005.mp3]
